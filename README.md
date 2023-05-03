@@ -2,4 +2,4 @@
 
 testing random stuff:
 
-![imggggg](https://stackoverflow-badge.herokuapp.com/stack_overflow?username=13029516&period=year)
+![stack overflow rep. badge](https://stackoverflow-badge.herokuapp.com/stack_overflow?username=13029516&period=year)
